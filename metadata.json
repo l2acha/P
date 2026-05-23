@@ -1,0 +1,6 @@
+{
+  "name": "Ploysai",
+  "description": "Ploysai is a Thai AI Companion designed to feel warm, emotionally aware, calming, and naturally human.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
